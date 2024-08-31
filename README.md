@@ -4,7 +4,7 @@
   
 ### Sobre mim
 - 💻 Eu sou uma Analista de Dados! 
-- 🎓 Eu atualmente estou estudando Engenharia de software!.
+- 🎓 Eu atualmente estou cursando Engenharia de software!.
 </div>
 
 <div align= "center">
@@ -12,6 +12,7 @@
 ### tecnologias
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2315041.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
