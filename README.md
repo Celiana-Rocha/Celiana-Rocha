@@ -10,8 +10,8 @@
   
 ### Sobre mim
 
-- 💻 Eu sou uma Analista de Dados! 
-- 🎓 Eu atualmente estou cursando Engenharia de software!.
+ #### 💻 Eu sou uma Analista de Dados! 
+ #### 🎓 Eu atualmente estou cursando bacharelado em Engenharia de software!.
 </div>
 
 <div align= "center">
